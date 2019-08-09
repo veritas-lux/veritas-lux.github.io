@@ -8,7 +8,6 @@
 
 之前，我查阅了一些关于人工智能的资料，这里，我总结了一下，再加上了一些个人的想法，以下就是给出的浅显的综述，相信很容易理解。
 
-```markdown
 人工智能——人工+智能
 人工智能是研究如何应用机器来模拟人类某些智能行为的一门学科或一项技术，智能——突出机器自主选择、决定（不是基于程序）而表现出具有人类智能行为的特征。
 二十一世纪三大尖端技术之一，另两个为基因工程genetic engineering和纳米科学Nanotechnology。
@@ -45,7 +44,6 @@
 （2）深度学习，Deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.
 试着翻译一下：深度学习是一种特殊的机器学习，它可以获得高性能也十分灵活。它可以用概念组成的网状层级结构来表示这个世界，每一个概念更简单的概念相连，抽象的概念通过没那么抽象的概念计算。
 -详情见https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc&isFailFlag=1
-```
 
 ## 相对论
 
