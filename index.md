@@ -1,8 +1,8 @@
 ## Welcome to Li Junping's Page
 
-在这里，我会记录和整理一些我的兴趣和一些我认为很有意义的东西。
+在这里，我会记录和整理一些我认为很有意义的东西。
 
-同时，很感谢您的到来。 Best wish to you!
+同时，非常感谢您的到来。 Best wish to you!
 
 ## 人工智能
 
@@ -23,33 +23,33 @@
 机器学习Machine Learning，特殊的为深度学习Deep Learning
 专家系统Expert System
 
-应用：
-搜索引擎
+应用举例：
+数据挖据，搜索引擎
 机器感知，如：机器视觉和图像处理、机器翻译和自然语言理解、语音识别
-数据挖掘
+当然，还有很多其它应用啦...
 
 对比：系统辨识、模式识别、机器学习
-系统辨识System Identification，主要研究输入输出关系建立系统模型。
-模式识别，主要对表征事物或现象的各种形式的信息进行处理和分析，从而达到对事物或现象进行描述、辨认、分类和解释等的目的。
+（1）系统辨识System Identification，主要研究输入输出关系建立系统模型。
+（2）模式识别，主要对表征事物或现象的各种形式的信息进行处理和分析，从而达到对事物或现象进行描述、辨认、分类和解释等的目的。
 生物特征匹配，如指纹识别、“刷脸”，与语音识别等就基于这个。
 再举个例子：人类见到一个东西之后，通常就会下意识地给其归类：是动物还是植物，属于哪一门纲目属科，是否可以药用，有果实吗，花朵是否漂亮，是否有毒……这一大串归类构成了人们对于这种事物的整体认知。这就属于人类对于模式的识别，这种技能对于人们甚至是一些动物来说，是非常简单而且几乎是与生俱来的。
 这种经由人为提取特征后交给机器，然后让机器去判断其它事的属性的工作流程就像是按图索骥，但是机器可能并不如人们所预料的那样“智能”。
 因为对机器来说，哪怕是分辨简单的“O”、“o”及“。”都要费九牛二虎之力。而这也就是为什么我们在使用一些图片转文字等软件时，发现通常经过翻译的文本变得错字连篇，而且有时候还错得不可思议。尤其是在大学里为论文苦苦挣扎的学生党，每当用软件转换CAJ文献或者PDF格式的材料时，可能就会让人觉得这种人工智能简直就是人工智障。
-机器学习可以这样理解：机器从已知的经验数据（样本）中，通过某种特定的方法（算法），自己去寻找提炼（训练/学习）出一些规律（模型），提炼出的规律就可以用来判断一些未知的事情（预测）。
+（3）机器学习可以这样理解：机器从已知的经验数据（样本）中，通过某种特定的方法（算法），自己去寻找提炼（训练/学习）出一些规律（模型），提炼出的规律就可以用来判断一些未知的事情（预测）。
 也就是说，模式识别和机器学习的区别在于：前者喂给机器的是各种特征描述，从而让机器对未知的事物进行判断；后者喂给机器的是某一事物的海量样本，让机器通过样本来自己发现特征（这个特征可以人工指定的特征也可以机器自己学习得到的特征，由此可分出是否为深度学习），再去判断某些未知的事物。模式识别更像是一般（或抽象）到特殊（或具体）的过程，而机器学习则相反，也更符合人们学习的过程。
 从技术角度分析，机器一般会将输入以一种数据的形式解析。我们看到的黑色其实只是电脑中RGB都为0的三个参数，白色则是RGB都为255的三个参数。因此在机器的世界里对颜色的分辨是分外容易的。
 
 对比：机器学习和深度学习
-机器学习，A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
+（1）机器学习，A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E.
 翻译过来就是：一个电脑程序要完成任务（T），如果电脑获取的关于T的经验（E）越多就表现（P）得越好，那么我们就可以说这个程序‘学习’了关于T的经验。简单来说，如果输入的经验越多表现地越好，这就叫“学习”。
-深度学习，Deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.
+（2）深度学习，Deep learning is a particular kind of machine learning that achieves great power and flexibility by learning to represent the world as nested hierarchy of concepts, with each concept defined in relation to simpler concepts, and more abstract representations computed in terms of less abstract ones.
 试着翻译一下：深度学习是一种特殊的机器学习，它可以获得高性能也十分灵活。它可以用概念组成的网状层级结构来表示这个世界，每一个概念更简单的概念相连，抽象的概念通过没那么抽象的概念计算。
-详情见https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc&isFailFlag=1
+-详情见https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc&isFailFlag=1
 ```
 
 ## 相对论
 
-一直都对相对论有一定的兴趣，相对论从诞生至今已经一百多年了，体系必定非常庞大，但是国内百度上的相对内容显得很不足。在校园网还能去外网的时候，我发现英文维基百科上关于相对论的内容挺全面的，所以我阅览了维基上几乎所有关于相对论的内容，最后我结合资料和自己的认识整理出关于相对论的体系，我觉得我整理的是非常详细和直观的。而且，令我兴奋地是，我还在维基的链接上找到了1905年狭义相对论的论文和1916年广义相对论的论文（1916年论文是最后的总稿，结合了1915年的四篇论文），需要的可以联系我。
+一直都对相对论有一定的兴趣，相对论从诞生至今已经一百多年了，体系必定非常庞大，但是国内百度上的相对内容显得很不足。在校园网还能去外网的时候，我发现英文维基百科上关于相对论的内容挺全面的，所以我阅览了维基上几乎所有关于相对论的内容（虽然我对有些高深的数学知识也不清楚，但作为一个课外科普来说，不影响对内容的理解），最后我结合资料和自己的认识整理出关于相对论的体系，我觉得我整理的是非常详细和直观的。而且，令我兴奋地是，我还在维基的链接上找到了1905年狭义相对论的论文和1916年广义相对论的论文（1916年论文是最后的总稿，结合了1915年的四篇论文），需要的可以联系我。
 
 ## 控制理论
 
