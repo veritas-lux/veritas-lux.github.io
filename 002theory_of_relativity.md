@@ -1,6 +1,6 @@
 ## 相对论Theory of Relativity-体系
 
-![](https://veritas-lux.github.io/bh.png)
+![](https://veritas-lux.github.io/tr.png)
 
 ### 狭义相对论
 
