@@ -71,6 +71,8 @@
 
 ![](https://github.com/veritas-lux/veritas-lux.github.io/blob/master/Black_hole_lensing.gif)
 
+![](https://github.com/veritas-lux/veritas-lux.github.io/blob/master/bh.png)
+
 ## 狭义相对论
 
 1.狭义相对性原理  
