@@ -47,13 +47,13 @@
 ### 005自动化和控制的期刊
 
 顶级  
-IEEE TAC(IEEE Transactions on Automatic Control)，侧重理论  
+IEEE Transactions on Automatic Control，侧重理论  
 Automatica，属于IFAC（国际自动化控制大会）旗下，侧重理论
 
 旗舰  
 Annual Reviews in Control，属于IFAC（国际自动化控制大会）旗下的综述期刊，大牛约稿  
 IEEE Transactions on Cybernetics，控制论顶级期刊  
-IEEE Transactions on Control Systems Technology，侧重应用，与IEEE TAC(IEEE Transactions on Automatic Control)是姊妹期刊。  
+IEEE Transactions on Control Systems Technology，侧重应用，与IEEE Transactions on Automatic Control是姊妹期刊。  
 Control Engineering Practice，属于IFAC（国际自动化控制大会）旗下，侧重应用，与Automatica是姊妹期刊。
 
 部分领域  
