@@ -1,4 +1,4 @@
-## Welcome to Li Junping's Page
+### Welcome to Li Junping's Page
 
 在这里，我会记录和整理一些我认为很有意思的东西。
 
@@ -68,3 +68,7 @@ Contact
 工业机器人企业四巨头：日本发那科FANUC、瑞士ABB、德国库卡KUKA（库卡于2017年被中国美的集团收购）、日本安川Yaskawa
 
 **007世界大学-全球著名学府**
+
+![](https://veritas-lux.github.io/alma_mater.png)
+
+图为世界上第一所大学——博洛尼亚大学，校训：大学之母
