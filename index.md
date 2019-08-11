@@ -67,7 +67,7 @@ Contact
 
 工业机器人企业四巨头：日本发那科FANUC、瑞士ABB、德国库卡KUKA（库卡于2017年被中国美的集团收购）、日本安川Yaskawa
 
-**007世界大学-全球著名学府**
+**007[世界大学-全球著名学府](https://veritas-lux.github.io/007world_university)**
 
 ![](https://veritas-lux.github.io/alma_mater.png)
 
