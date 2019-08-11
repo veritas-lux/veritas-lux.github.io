@@ -1,3 +1,4 @@
+参加会议的所有科学家的姓名、国籍及诺贝尔奖得主
 
 ![](https://veritas-lux.github.io/1927Solvay.png)
 
