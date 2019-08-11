@@ -46,9 +46,9 @@
 
 法国
 - 巴黎高师ENS以优秀培育优秀
-- 巴黎综合理工Ecole Polytechnique为国为科学为荣誉
 - 巴黎-萨克雷大学Paris-Saclay
 - 巴黎文理研究大学U PSL
+- 巴黎综合理工Ecole Polytechnique为国为科学为荣誉
 - 索邦大学Sorbonne
 
 德国
