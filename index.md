@@ -44,4 +44,25 @@
 
 其中，诺贝尔奖得主有（按后、中、前的顺序排）：E.薛定谔（E.Schrodinger）[奥]，W.泡利（W.Pauli）[奥、瑞士、美]，W.海森堡（W.Heisenberg）[德]，P.德拜（P.Debye）[荷、美]，W.劳伦斯.布拉格（W.L.Bragg）[澳、英]，P.A.M.狄拉克（P.A.M.Dirac）[英]，A.H.康普顿（A.H.Compton）[美]，L.德布罗意（L.de Broglie）[法]，M.玻恩（M.Born）[德、英]，N.玻尔（N.Bohr）[丹]，I.朗缪尔（I.Langmuir）[美]，M.普朗克（M.Planck）[德]，M.居里（Marie.Curie）[波、法]，H.A.洛伦兹（H.A.Lorentz）[荷]，A.爱因斯坦（A.Einstein）[德、无、瑞士、奥匈、德、美]，查尔斯.汤普森.里斯.威尔逊（C.T.R.Wilson）[英]，欧文.W.理查森（O.W.Richardson）[英]
 
+### 005自动化和控制的期刊
 
+顶级  
+IEEE TAC(IEEE Transactions on Automatic Control)，侧重理论  
+Automatica，属于IFAC（国际自动化控制大会）旗下，侧重理论
+
+旗舰  
+Annual Reviews in Control，属于IFAC（国际自动化控制大会）旗下的综述期刊，大牛约稿  
+IEEE Transactions on Cybernetics，控制论顶级期刊  
+IEEE Transactions on Control Systems Technology，侧重应用，与IEEE TAC(IEEE Transactions on Automatic Control)是姊妹期刊。  
+Control Engineering Practice，属于IFAC（国际自动化控制大会）旗下，侧重应用，与Automatica是姊妹期刊。
+
+部分领域  
+IEEE Transactions on Robotics
+
+老牌  
+Systems & Control Letters  
+International Journal of Control  
+IET Control Theory and Applications
+
+国内  
+自动化学报，由中国自动化学会、中国科学院自动化研究所共同主办
