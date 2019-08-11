@@ -71,4 +71,4 @@ Contact
 
 ![](https://veritas-lux.github.io/alma_mater.png)
 
-图为世界上第一所大学——博洛尼亚大学，校训：大学之母
+（图为世界上第一所大学——博洛尼亚大学，校训：大学之母）
