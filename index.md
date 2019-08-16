@@ -77,25 +77,27 @@ Contact
 
 人工智能
 
-Title: [如何教计算机理解图片](http://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html)  
+- Title: [如何教计算机理解图片](http://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html)  
 Point: 泛讲人工智能（广）-人脑智能（狭），主讲计算机视觉和机器学习
 
-Title: [电脑是怎么准确识别东西的](http://open.163.com/movie/2018/7/E/N/MDL1F9Q44_MDL1FDAEN.html)  
+- Title: [电脑是怎么准确识别东西的](http://open.163.com/movie/2018/7/E/N/MDL1F9Q44_MDL1FDAEN.html)  
 Point: 计算机视觉
 
-Title: [电脑如何学习创新](http://open.163.com/movie/2016/8/9/I/MBSSQ97R7_MBT91K99I.html)  
+- Title: [电脑如何学习创新](http://open.163.com/movie/2016/8/9/I/MBSSQ97R7_MBT91K99I.html)  
 Point: 从计算机视觉和机器学习的正向至逆向
 
-Title: [机器人可以通过大学考试吗](http://open.163.com/movie/2018/9/8/E/MDQO2385L_MDQO6MB8E.html)  
+- Title: [机器人可以通过大学考试吗](http://open.163.com/movie/2018/9/8/E/MDQO2385L_MDQO6MB8E.html)  
 Point: 自然语言理解，从AI谈教育，从记忆至理解
 
-Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
+- Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
 Point: 集群智能
 
 科技产品
 
-Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
+- Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
 Point: 纯show，解放双手
 
-Title: [计算机的“真实”世界，发挥你无穷的想象力](http://open.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html)  
+- Title: [计算机的“真实”世界，发挥你无穷的想象力](http://open.163.com/movie/2013/10/F/9/M9AI41S7L_M9AI4A6F9.html)  
 Point: 就像科幻片中的那样，通过双手在三维平面内畅享计算机世界，如浏览信息、建模、实验等
+
+(Pick了几个计算机和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
