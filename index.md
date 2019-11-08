@@ -20,7 +20,11 @@ Contact
 
 **003[控制理论Control Theory-体系](https://veritas-lux.github.io/003control_theory)**
 
-控制理论也有一段时间的历史了，自现代控制理论在1960年奠基以来，至今都已经将近六十年了。作为自动化专业和控制科学与工程学科的核心，在二十一世纪以第四次科技革命为显著特征的浪潮中，控制理论正向着智能控制的方向发展，自动化和控制领域必将有极好的前景和趋势。这里，我结合自己专业所学和百度、维基的内容整理出控制理论的体系，仅供参考，如有遗漏，欢迎补充。
+控制理论也有很长时间的历史了，就现代控制理论在1960年奠基以来，至今都已经将近六十年了。作为自动化专业和控制科学与工程学科的核心，在二十一世纪以第四次科技革命为显著特征的浪潮中，控制理论正向着智能控制的方向发展，自动化和控制领域必将有极好的前景和趋势。这里，我结合自己专业所学和百度、维基的内容整理出控制理论的体系，仅供参考，如有遗漏，欢迎补充。
+
+**控制论Cybernetics**
+
+二十世纪四五十年代以来，控制理论不断往各个学科和领域（统称哲学）渗透，且在哲学上形成控制论Cybernetics，无论从深度还是广度上都得到了很好的发展。Cybernetics对客观世界，用统一的、综合的、科学的观点进行唯物辩证的分析。Cybernetics有“信息”和“控制”两部分，一起反映了客观世界的可知性和可改造性。
 
 **004物理学界最豪华的聚会——第五届索尔维会议Solvay Conference, 1927**
 
@@ -42,8 +46,7 @@ Contact
 - IEEE Transactions on Automatic Control，侧重理论  
 - Automatica，属于IFAC（国际自动化控制大会）旗下，侧重理论
 
-旗舰
-- IEEE Transactions on Cybernetics，控制论顶级期刊  
+旗舰  
 - IEEE Transactions on Control Systems Technology，侧重应用，与IEEE Transactions on Automatic Control是姊妹期刊。  
 - Control Engineering Practice，属于IFAC（国际自动化控制大会）旗下，侧重应用，与Automatica是姊妹期刊。
 
