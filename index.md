@@ -83,9 +83,15 @@ Point: 自然语言理解，从AI谈教育，从记忆至理解
 - Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
 Point: 集群智能
 
-科技产品
+创意
 
 - Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
 Point: 纯show，解放双手
 
-(Pick了几个计算机和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
+- Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
+Point: 神经元电信号放大
+
+- Title: [突破性互联网连接技术](http://open.163.com/movie/2016/1/L/O/MBBL91A3O_MBBLAT7LO.html)  
+Point: Li-Fi
+
+(Pick了几个科技和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
