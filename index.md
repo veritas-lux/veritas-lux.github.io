@@ -85,10 +85,10 @@ Point: 纯show，解放双手
 技术
 
 - Title: [演示无线电力输送](http://open.163.com/newview/movie/free?pid=M7EEITVK8&mid=M7EEJ1SA6)  
-Point: 
+Point: 法拉第电磁感应定律、安培(环路)-麦克斯韦定律，无线输电
 
 - Title: [悬浮一个超导体](http://open.163.com/newview/movie/free?pid=M9G1AD07V&mid=M9G3PHOVE)  
-Point: 
+Point: 超导磁悬浮
 
 - Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
 Point: 神经元电信号放大，脑机接口
