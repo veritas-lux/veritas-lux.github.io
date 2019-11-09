@@ -77,7 +77,7 @@ Point: 人工智能（广）-人脑智能（狭），主讲计算机视觉和机
 - Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
 Point: 集群智能
 
-创意
+技术
 
 - Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
 Point: 纯show，解放双手
