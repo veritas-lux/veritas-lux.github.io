@@ -99,5 +99,7 @@ Point: Li-Fi，光照通信
 - Title: [创造地球表面可检索数据库的任务](http://open.163.com/newview/movie/free?pid=MEP2FJINJ&mid=MEP2FP65A)  
 Point: GPS实时照片和AI结合
 
+- Title: [无人驾驶汽车](http://open.163.com/newview/movie/free?pid=MBBL91A3O&mid=MBBL9CG33)  
+Point: 地图技术、传感器技术叠加
 
 (Pick了几个科技和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
