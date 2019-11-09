@@ -74,12 +74,6 @@ Contact
 - Title: [如何教计算机理解图片](http://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html)  
 Point: 人工智能（广）-人脑智能（狭），主讲计算机视觉和机器学习
 
-- Title: [电脑如何学习创新](http://open.163.com/movie/2016/8/9/I/MBSSQ97R7_MBT91K99I.html)  
-Point: 从计算机视觉和机器学习的正向至逆向
-
-- Title: [机器人可以通过大学考试吗](http://open.163.com/movie/2018/9/8/E/MDQO2385L_MDQO6MB8E.html)  
-Point: 自然语言理解，从AI谈教育，从记忆至理解
-
 - Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
 Point: 集群智能
 
