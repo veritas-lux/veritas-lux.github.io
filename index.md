@@ -90,16 +90,13 @@ Point: 法拉第电磁感应定律、安培(环路)-麦克斯韦定律，无线�
 - Title: [悬浮一个超导体](http://open.163.com/newview/movie/free?pid=M9G1AD07V&mid=M9G3PHOVE)  
 Point: 超导磁悬浮
 
-- Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
-Point: 神经元电信号放大，脑机接口
-
 - Title: [突破性互联网连接技术](http://open.163.com/movie/2016/1/L/O/MBBL91A3O_MBBLAT7LO.html)  
 Point: Li-Fi，光照通信
 
+- Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
+Point: 神经元电信号放大，脑机接口
+
 - Title: [创造地球表面可检索数据库的任务](http://open.163.com/newview/movie/free?pid=MEP2FJINJ&mid=MEP2FP65A)  
 Point: GPS实时照片和AI结合
-
-- Title: [无人驾驶汽车](http://open.163.com/newview/movie/free?pid=MBBL91A3O&mid=MBBL9CG33)  
-Point: 地图技术、传感器技术叠加
 
 (Pick了几个科技和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
