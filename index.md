@@ -77,15 +77,27 @@ Point: 人工智能（广）-人脑智能（狭），主讲计算机视觉和机
 - Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
 Point: 集群智能
 
-技术
+产品
 
 - Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
 Point: 纯show，解放双手
 
+技术
+
+- Title: [演示无线电力输送](http://open.163.com/newview/movie/free?pid=M7EEITVK8&mid=M7EEJ1SA6)  
+Point: 
+
+- Title: [悬浮一个超导体](http://open.163.com/newview/movie/free?pid=M9G1AD07V&mid=M9G3PHOVE)  
+Point: 
+
 - Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
-Point: 神经元电信号放大
+Point: 神经元电信号放大，脑机接口
 
 - Title: [突破性互联网连接技术](http://open.163.com/movie/2016/1/L/O/MBBL91A3O_MBBLAT7LO.html)  
-Point: Li-Fi
+Point: Li-Fi，光照通信
+
+- Title: [创造地球表面可检索数据库的任务](http://open.163.com/newview/movie/free?pid=MEP2FJINJ&mid=MEP2FP65A)  
+Point: GPS实时照片和AI结合
+
 
 (Pick了几个科技和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
