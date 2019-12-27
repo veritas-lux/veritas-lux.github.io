@@ -1,6 +1,6 @@
 ### Welcome to Li Junping's Page
 
-在这里，我会记录一些有意思的东西。
+Here, to record sth. interesting
 
 Contact
 
@@ -10,21 +10,21 @@ Contact
 
 **001[人工智能Artificial Intelligence-浅述](https://veritas-lux.github.io/001ai)**
 
-就目前和未来，人工智能都会是个非常热门的话题。这里，我结合资料和个人认识给出浅显的概述。
+结合资料和个人认识给出浅显的概述。
 
 **002[相对论Theory of Relativity-体系](https://veritas-lux.github.io/002theory_of_relativity)**
 
 ![](https://veritas-lux.github.io/Black_hole_lensing.gif)
 
-相对论从1905年诞生以来，至今已经一百多年了，体系很庞大。我曾在维基上浏览关于相对论的内容，而也发现百度上关于相对论的内容差不多是维基的冰山一角。另外，在维基的链接上可以找到1905年狭义相对论的论文和1916年广义相对论的论文。这里，我结合资料和个人认识整理出相对论的体系。
+相对论从1905年诞生以来，至今已经一百多年了，体系很庞大。我曾在维基上浏览关于相对论的内容(百度上关于相对论的差不多是维基的冰山一角)。另外，在维基的链接上可以找到1905年狭义相对论的论文和1916年广义相对论的论文。这里，结合资料和个人认识整理出相对论的体系。
 
 **003[控制理论Control Theory-体系](https://veritas-lux.github.io/003control_theory)**
 
-控制理论也有很长时间的历史了，就现代控制理论在1960年奠基以来，至今都已经将近六十年了。作为自动化专业和控制科学与工程学科的核心，在二十一世纪以第四次科技革命为显著特征的浪潮中，控制理论正向着智能控制的方向发展，自动化和控制领域必将有极好的前景和趋势。这里，我结合自己专业所学和百度、维基的内容整理出控制理论的体系，仅供参考，如有遗漏，欢迎补充。
+控制理论也有很长时间的历史了，现代控制理论在1960年奠基以来，至今都已经将近六十年了。作为自动化专业和控制科学与工程学科的核心，在二十一世纪以第四次科技革命为显著特征的浪潮中，控制理论正向着智能控制的方向发展，自动化和控制领域必将有极好的前景和趋势。这里，结合自己专业所学和百度、维基的内容整理出控制理论的体系，仅供参考，如有遗漏，欢迎补充。
 
 **控制论Cybernetics**
 
-二十世纪四五十年代以来，控制理论不断往各个学科和领域（统称哲学）渗透，且在哲学上形成控制论Cybernetics，无论从深度还是广度上都得到了很好的发展。Cybernetics对客观世界，用统一的、综合的、科学的观点进行唯物辩证的分析。Cybernetics有“信息”和“控制”两部分，一起反映了客观世界的可知性和可改造性。
+二十世纪四五十年代以来形成的控制论Cybernetics，控制理论不断往各个学科和领域（统称哲学）渗透，无论从深度还是广度上都得到了很好的发展。Cybernetics对客观世界，用统一的、综合的、科学的观点进行唯物辩证的分析。
 
 **004物理学界最豪华的聚会——第五届索尔维会议Solvay Conference, 1927**
 
@@ -69,34 +69,19 @@ Contact
 
 **008TED演讲(Technology, Entertainment, Design)传播一切值得传播的创意**
 
-人工智能
+- Title: SpaceX计划让你在30分钟内飞遍全球
+- Title: 特斯拉、SpaceX、太阳城背后的理念
+- Title: SpaceX的胜利：世界首次成功海上回收火箭
+- Title: (李飞飞：)如何教计算机理解图片
+- Title: 谷歌创始人展示谷歌眼镜
+- Title: (艾力克·基勒)演示无线电力输送
+- Title: "悬浮"一个超导体
+- Title: 突破性互联网连接技术
+- Title: 大脑控制他人的行为 or 如何用你的大脑控制他人的手臂
+- Title: 创造地球表面可检索数据库的任务
+- Title: 一群风力无人机如何改变我们对海洋的认识
+- Title: 计算机的诞生
+- Title: 对未来产生影响最大的科技
+- Title: 下一个颠覆世界的重大科学是什么？
 
-- Title: [如何教计算机理解图片](http://open.163.com/movie/2015/3/Q/R/MAKN9A24M_MAKN9QAQR.html)  
-Point: 人工智能（广）-人脑智能（狭），主讲计算机视觉和机器学习
-
-- Title: [智能机器从鱼群中学到的](http://open.163.com/movie/2019/1/M/8/ME3LN48V1_ME3LNCGM8.html)  
-Point: 集群智能
-
-产品
-
-- Title: [谷歌创始人展示谷歌眼镜](http://open.163.com/movie/2013/4/S/V/M8VU1HC4K_M8VU1OJSV.html)  
-Point: 纯show，解放双手
-
-技术
-
-- Title: [演示无线电力输送](http://open.163.com/newview/movie/free?pid=M7EEITVK8&mid=M7EEJ1SA6)  
-Point: 法拉第电磁感应定律、安培(环路)-麦克斯韦定律，无线输电
-
-- Title: [悬浮一个超导体](http://open.163.com/newview/movie/free?pid=M9G1AD07V&mid=M9G3PHOVE)  
-Point: 超导磁悬浮
-
-- Title: [突破性互联网连接技术](http://open.163.com/movie/2016/1/L/O/MBBL91A3O_MBBLAT7LO.html)  
-Point: Li-Fi，光照通信
-
-- Title: [大脑控制他人的行为](http://open.163.com/movie/2016/1/T/E/MBBL91A3O_MBBLAG4TE.html)  
-Point: 神经元电信号放大，脑机接口
-
-- Title: [创造地球表面可检索数据库的任务](http://open.163.com/newview/movie/free?pid=MEP2FJINJ&mid=MEP2FP65A)  
-Point: GPS实时照片和AI结合
-
-(Pick了几个科技和AI方面的TED，非常有趣，演讲时间不长，最多不超过18min)
+(Pick了一些科技方面的TED，意义重大，同时非常有趣，演讲时间不长，最多不超过20min)
