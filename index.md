@@ -4,9 +4,9 @@ Here, to record sth. interesting
 
 Contact
 
-地址：山东省青岛市崂山区中国海洋大学北区
+地址：
 
-邮箱：ljp.mail@stu.ouc.edu.cn
+邮箱：
 
 **001[人工智能Artificial Intelligence-浅述](https://veritas-lux.github.io/001ai)**
 
