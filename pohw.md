@@ -8,7 +8,7 @@
 
 **[蒸发量减降水量1-12月](https://veritas-lux.github.io/emp)**
 
-**[盐度温度子午向断面图](https://veritas-lux.github.io/profile)**
+**[盐度温度子午向断面](https://veritas-lux.github.io/profile)**
 
 分析
 
