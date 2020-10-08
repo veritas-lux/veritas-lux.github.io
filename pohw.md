@@ -1,4 +1,4 @@
-短波辐射
+短波辐射1-12月
 
 ![](https://veritas-lux.github.io/shortrad/shortrad1.jpg)
 ![](https://veritas-lux.github.io/shortrad/shortrad2.jpg)
@@ -13,7 +13,7 @@
 ![](https://veritas-lux.github.io/shortrad/shortrad11.jpg)
 ![](https://veritas-lux.github.io/shortrad/shortrad12.jpg)
 
-长波辐射
+长波辐射1-12月
 
 ![](https://veritas-lux.github.io/longrad/longrad1.jpg)
 ![](https://veritas-lux.github.io/longrad/longrad2.jpg)
@@ -28,7 +28,7 @@
 ![](https://veritas-lux.github.io/longrad/longrad11.jpg)
 ![](https://veritas-lux.github.io/longrad/longrad12.jpg)
 
-净热通量
+净热通量1-12月
 ![](https://veritas-lux.github.io/netheat/netheat1.jpg)
 ![](https://veritas-lux.github.io/netheat/netheat2.jpg)
 ![](https://veritas-lux.github.io/netheat/netheat3.jpg)
@@ -42,7 +42,7 @@
 ![](https://veritas-lux.github.io/netheat/netheat11.jpg)
 ![](https://veritas-lux.github.io/netheat/netheat12.jpg)
 
-降水量
+降水量1-12月
 
 ![](https://veritas-lux.github.io/precip/precip1.jpg)
 ![](https://veritas-lux.github.io/precip/precip2.jpg)
@@ -57,7 +57,7 @@
 ![](https://veritas-lux.github.io/precip/precip11.jpg)
 ![](https://veritas-lux.github.io/precip/precip12.jpg)
 
-蒸发量减降水量
+蒸发量减降水量1-12月
 
 ![](https://veritas-lux.github.io/emp/emp1.jpg)
 ![](https://veritas-lux.github.io/emp/emp2.jpg)
@@ -72,7 +72,7 @@
 ![](https://veritas-lux.github.io/emp/emp11.jpg)
 ![](https://veritas-lux.github.io/emp/emp12.jpg)
 
-盐度温度子午向断面图
+盐度温度子午向断面图1-12月
 
 ![](https://veritas-lux.github.io/profile/s25w.jpg)
 ![](https://veritas-lux.github.io/profile/s170w.jpg)
