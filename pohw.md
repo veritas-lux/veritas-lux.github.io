@@ -1,84 +1,14 @@
-短波辐射1-12月
+**[短波辐射1-12月](https://veritas-lux.github.io/shortrad)**
 
-![](https://veritas-lux.github.io/shortrad/shortrad1.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad2.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad3.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad4.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad5.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad6.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad7.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad8.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad9.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad10.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad11.jpg)
-![](https://veritas-lux.github.io/shortrad/shortrad12.jpg)
+**[长波辐射1-12月](https://veritas-lux.github.io/longrad)**
 
-长波辐射1-12月
+**[净热通量1-12月](https://veritas-lux.github.io/netheat)**
 
-![](https://veritas-lux.github.io/longrad/longrad1.jpg)
-![](https://veritas-lux.github.io/longrad/longrad2.jpg)
-![](https://veritas-lux.github.io/longrad/longrad3.jpg)
-![](https://veritas-lux.github.io/longrad/longrad4.jpg)
-![](https://veritas-lux.github.io/longrad/longrad5.jpg)
-![](https://veritas-lux.github.io/longrad/longrad6.jpg)
-![](https://veritas-lux.github.io/longrad/longrad7.jpg)
-![](https://veritas-lux.github.io/longrad/longrad8.jpg)
-![](https://veritas-lux.github.io/longrad/longrad9.jpg)
-![](https://veritas-lux.github.io/longrad/longrad10.jpg)
-![](https://veritas-lux.github.io/longrad/longrad11.jpg)
-![](https://veritas-lux.github.io/longrad/longrad12.jpg)
+**[降水量1-12月](https://veritas-lux.github.io/precip)**
 
-净热通量1-12月
+**[蒸发量减降水量1-12月](https://veritas-lux.github.io/emp)**
 
-![](https://veritas-lux.github.io/netheat/netheat1.jpg)
-![](https://veritas-lux.github.io/netheat/netheat2.jpg)
-![](https://veritas-lux.github.io/netheat/netheat3.jpg)
-![](https://veritas-lux.github.io/netheat/netheat4.jpg)
-![](https://veritas-lux.github.io/netheat/netheat5.jpg)
-![](https://veritas-lux.github.io/netheat/netheat6.jpg)
-![](https://veritas-lux.github.io/netheat/netheat7.jpg)
-![](https://veritas-lux.github.io/netheat/netheat8.jpg)
-![](https://veritas-lux.github.io/netheat/netheat9.jpg)
-![](https://veritas-lux.github.io/netheat/netheat10.jpg)
-![](https://veritas-lux.github.io/netheat/netheat11.jpg)
-![](https://veritas-lux.github.io/netheat/netheat12.jpg)
-
-降水量1-12月
-
-![](https://veritas-lux.github.io/precip/precip1.jpg)
-![](https://veritas-lux.github.io/precip/precip2.jpg)
-![](https://veritas-lux.github.io/precip/precip3.jpg)
-![](https://veritas-lux.github.io/precip/precip4.jpg)
-![](https://veritas-lux.github.io/precip/precip5.jpg)
-![](https://veritas-lux.github.io/precip/precip6.jpg)
-![](https://veritas-lux.github.io/precip/precip7.jpg)
-![](https://veritas-lux.github.io/precip/precip8.jpg)
-![](https://veritas-lux.github.io/precip/precip9.jpg)
-![](https://veritas-lux.github.io/precip/precip10.jpg)
-![](https://veritas-lux.github.io/precip/precip11.jpg)
-![](https://veritas-lux.github.io/precip/precip12.jpg)
-
-蒸发量减降水量1-12月
-
-![](https://veritas-lux.github.io/emp/emp1.jpg)
-![](https://veritas-lux.github.io/emp/emp2.jpg)
-![](https://veritas-lux.github.io/emp/emp3.jpg)
-![](https://veritas-lux.github.io/emp/emp4.jpg)
-![](https://veritas-lux.github.io/emp/emp5.jpg)
-![](https://veritas-lux.github.io/emp/emp6.jpg)
-![](https://veritas-lux.github.io/emp/emp7.jpg)
-![](https://veritas-lux.github.io/emp/emp8.jpg)
-![](https://veritas-lux.github.io/emp/emp9.jpg)
-![](https://veritas-lux.github.io/emp/emp10.jpg)
-![](https://veritas-lux.github.io/emp/emp11.jpg)
-![](https://veritas-lux.github.io/emp/emp12.jpg)
-
-盐度温度子午向断面图1-12月
-
-![](https://veritas-lux.github.io/profile/s25w.jpg)
-![](https://veritas-lux.github.io/profile/s170w.jpg)
-![](https://veritas-lux.github.io/profile/t25w.jpg)
-![](https://veritas-lux.github.io/profile/t170w.jpg)
+**[盐度温度子午向断面图](https://veritas-lux.github.io/profile)**
 
 分析
 
@@ -107,4 +37,3 @@
 
 蒸发量减降水量  
 相对于低纬度和高纬度，可见中纬度地区蒸发比降水量多不少
-
