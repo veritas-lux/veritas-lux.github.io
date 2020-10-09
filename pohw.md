@@ -35,7 +35,7 @@
 ![](https://veritas-lux.github.io/profile/t25w.jpg)
 ![](https://veritas-lux.github.io/profile/t170w.jpg)
 
-[年均盐温子午向断面原图见此链接](https://veritas-lux.github.io/emp)
+[年均盐温子午向断面原图见此链接](https://veritas-lux.github.io/profile)
 
 分析
 
