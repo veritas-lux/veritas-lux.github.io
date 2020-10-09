@@ -1,28 +1,28 @@
-**短波辐射1-12月**
+**短波辐射1-12月gif动态变化图**
 
 ![](https://veritas-lux.github.io/shortrad.gif)
 
 [短波辐射原图见此链接](https://veritas-lux.github.io/shortrad)
 
-**长波辐射1-12月**
+**长波辐射1-12月gif动态变化图**
 
 ![](https://veritas-lux.github.io/longrad.gif)
 
 [长波辐射原图见此链接](https://veritas-lux.github.io/longrad)
 
-**净热通量1-12月**
+**净热通量1-12月gif动态变化图**
 
 ![](https://veritas-lux.github.io/netheat.gif)
 
 [净热通量原图见此链接](https://veritas-lux.github.io/netheat)
 
-**降水量1-12月**
+**降水量1-12月gif动态变化图**
 
 ![](https://veritas-lux.github.io/precip.gif)
 
 [降水量原图见此链接](https://veritas-lux.github.io/precip)
 
-**蒸发量减降水量1-12月**
+**蒸发量减降水量1-12月gif动态变化图**
 
 ![](https://veritas-lux.github.io/emp.gif)
 
@@ -34,6 +34,8 @@
 ![](https://veritas-lux.github.io/profile/s170w.jpg)
 ![](https://veritas-lux.github.io/profile/t25w.jpg)
 ![](https://veritas-lux.github.io/profile/t170w.jpg)
+
+[年均盐温子午向断面原图见此链接](https://veritas-lux.github.io/emp)
 
 分析
 
