@@ -30,10 +30,10 @@
 
 **年均盐温子午向断面**
 
-![](https://veritas-lux.github.io/s25w.jpg)
-![](https://veritas-lux.github.io/s170w.jpg)
-![](https://veritas-lux.github.io/t25w.jpg)
-![](https://veritas-lux.github.io/t170w.jpg)
+![](https://veritas-lux.github.io/profile/s25w.jpg)
+![](https://veritas-lux.github.io/profile/s170w.jpg)
+![](https://veritas-lux.github.io/profile/t25w.jpg)
+![](https://veritas-lux.github.io/profile/t170w.jpg)
 
 分析
 
