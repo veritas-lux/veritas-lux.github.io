@@ -9,11 +9,11 @@ Here, to record sth. interesting
 
 ![](https://veritas-lux.github.io/Black_hole_lensing.gif)
 
-相对论自1905年诞生起至今已经一百多年，体系大。曾在维基上浏览关于相对论的内容，另外，还找到1905年狭义相对论和1916年广义相对论的论文。这里，结合资料和个人认识给出相对论的体系。
+相对论自1905年诞生起至今已经一百多年，体系大。这里，结合资料和个人认识给出相对论的体系。
 
 **003[控制理论Control Theory-体系](https://veritas-lux.github.io/003control_theory)**
 
-控制理论也有很长时间的历史，仅现代控制理论在1960年奠基至今已有六十年。
+控制理论也有很长时间的历史，现代控制理论在1960年奠基至今已有六十年。
 
 **控制论Cybernetics**
 
